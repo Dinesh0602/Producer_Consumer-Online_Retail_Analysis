@@ -18,6 +18,4 @@ Each project lives in its own folder and has its **own `README.md`** with full d
 ├── Producer-Consumer/     # Project 2: Producer–Consumer concurrency demo
 │   └── README.md
 └── README.md                   # This file
-```# Producer_Consumer-Online-Retail-Analysis
-# Producer_Consumer-Online_Retail_Analysis
-# Producer_Consumer-Online_Retail_Analysis
+```
