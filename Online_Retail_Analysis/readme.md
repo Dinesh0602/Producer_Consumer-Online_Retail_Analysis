@@ -224,7 +224,10 @@ The test suite covers:
   - top-N behavior when `n` is larger than the number of available products or customers.
 
 
+## 6. Sample Outputs
 
-# Producer_Consumer-Online-Retail-Analysis
-# Online_Retail_Analysis
-# Online_Retail_Analysis
+![Online Retail Analysis 1](images/Online_Retail_Analysis-1.png)
+
+![Online Retail Analysis 2](images/Online_Retail_Analysis-2.png)
+
+
