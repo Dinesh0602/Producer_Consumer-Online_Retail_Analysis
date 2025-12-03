@@ -141,11 +141,9 @@ online-retail-analysis/
 From the project root:
 
 ```bash
-git clone <your-public-github-repo-url>.git
-cd ONLINE_RETAIL_ANALYSIS
+git clone https://github.com/Dinesh0602/Producer_Consumer-Online_Retail_Analysis.git
+cd Online_Retail_Analysis
 
-
-pip install -r requirements.txt
 ```
 
 ---
