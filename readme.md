@@ -1,4 +1,4 @@
-# Intuit Assignment – Python Data Analysis & Concurrency
+# Python Data Analysis & Concurrency
 
 This repository contains **two independent Python mini-projects**:
 
